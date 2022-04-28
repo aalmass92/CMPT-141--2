@@ -1,0 +1,42 @@
+#Name Ahmed Almass
+#NSID:ana597
+#instructors: Mark Keil , Kim Mackey, Marina Schmidt
+#Student Number: 11240547
+
+a)
+num_coffee , price_coffee , discount and cost.
+
+b)
+
+1, 2.00, 0
+3, 3.25, 2.00
+7, 2.75, 5.00
+
+c)
+total_before_tax, total_after_tax, total_after_discount, total, customer1, customer2, customer3
+
+d)
+i. total_after_tax
+Local variable within calculate_coffee function, the value is a call add_tax() function using total_before_tax are an argument.
+
+ii. cost
+Parameter variable for add_tax
+
+iii. customer2
+
+Global variable, value equals a call function of calculate_coffee() with the argument, 3, 3.25, 2.00.
+
+e)
+There is two:
+add_tax(cost)
+calculate_coffee( num_coffee , price_coffee , discount)
+
+f)
+There is 6.
+
+3 calculate_coffee, and every time calculate_coffee get called, the add_tax get called within the function; making it another 3.
+
+g)
+ customer2 = calculate_coffee(3, 3.25, 2.00)
+
+ customer2 = 5.4325

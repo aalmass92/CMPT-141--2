@@ -1,0 +1,23 @@
+def carpet(width,length, cost_cpf):
+    """
+
+    Computes the total cost of the carpet
+    :param width:  float value for width
+    :param length: float value for length
+    :param cost_cpf: float value for carpet per foot
+    :var area: A float area calculated by width and length parameter
+    :var totalCost_carp: A float cost calculated by cost_cpf parameter by area
+    :return: the total cost of the carp
+    """
+    area = width * length
+    totalCost_carp = area * cost_cpf
+
+    return totalCost_carp
+
+
+
+width = float(input("What is the width of the room (ft) "))
+length = float(input("What is the length (ft) "))
+cost_cpf = float(input("Input the Cost of a square foot of carpet ($) "))
+
+print carpet(width, length, cost_cpf)

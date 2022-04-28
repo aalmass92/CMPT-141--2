@@ -1,0 +1,15 @@
+#Name Ahmed Almass 
+#NSID:ana597
+#instructors: Mark Keil , Kim Mackey, Marina Schmidt
+a) How many inputs does this algorithm have? What are these input(s)?
+
+There is one input, and word is the only inputed.
+
+(b) How manyoutputsdoes this algorithm have? What are these output(s)?
+
+There is one output, secretWord.
+
+ 
+(c) In asfew words as possible, what is the problem that the algorithm is solving?
+
+The word that is the inputed, later goes through steps to encrypt the word.

@@ -1,0 +1,86 @@
+Enter half life in days: 3
+Enter initial amount of material in grams: 80
+After 0 days there are 80.0 grams remaining.
+After 1 days there are 63.49604207872798 grams remaining.
+After 2 days there are 50.39684199579493 grams remaining.
+After 3 days there are 40.0 grams remaining.
+After 4 days there are 31.74802103936399 grams remaining.
+After 5 days there are 25.198420997897465 grams remaining.
+After 6 days there are 20.0 grams remaining.
+After 7 days there are 15.874010519681994 grams remaining.
+After 8 days there are 12.599210498948732 grams remaining.
+After 9 days there are 10.0 grams remaining.
+After 10 days there are 7.937005259840997 grams remaining.
+After 11 days there are 6.299605249474366 grams remaining.
+After 12 days there are 5.0 grams remaining.
+After 13 days there are 3.9685026299204997 grams remaining.
+After 14 days there are 3.149802624737182 grams remaining.
+After 15 days there are 2.5 grams remaining.
+After 16 days there are 1.9842513149602499 grams remaining.
+After 17 days there are 1.574901312368591 grams remaining.
+After 18 days there are 1.25 grams remaining.
+After 19 days there are 0.9921256574801249 grams remaining.
+After 20 days there are 0.7874506561842955 grams remaining.
+
+Process finished with exit code 0
+
+Enter half life in days: 2
+Enter initial amount of material in grams: 100
+After 0 days there are 100.0 grams remaining.
+After 1 days there are 70.71067811865476 grams remaining.
+After 2 days there are 50.0 grams remaining.
+After 3 days there are 35.35533905932738 grams remaining.
+After 4 days there are 25.0 grams remaining.
+After 5 days there are 17.67766952966369 grams remaining.
+After 6 days there are 12.5 grams remaining.
+After 7 days there are 8.838834764831844 grams remaining.
+After 8 days there are 6.25 grams remaining.
+After 9 days there are 4.419417382415922 grams remaining.
+After 10 days there are 3.125 grams remaining.
+After 11 days there are 2.209708691207961 grams remaining.
+After 12 days there are 1.5625 grams remaining.
+After 13 days there are 1.1048543456039805 grams remaining.
+After 14 days there are 0.78125 grams remaining.
+
+Process finished with exit code 0
+
+Enter half life in days: 5
+Enter initial amount of material in grams: 300
+After 0 days there are 300.0 grams remaining.
+After 1 days there are 261.16516898883725 grams remaining.
+After 2 days there are 227.3574849765597 grams remaining.
+After 3 days there are 197.92618661593414 grams remaining.
+After 4 days there are 172.30475324955523 grams remaining.
+After 5 days there are 150.0 grams remaining.
+After 6 days there are 130.58258449441863 grams remaining.
+After 7 days there are 113.67874248827987 grams remaining.
+After 8 days there are 98.96309330796707 grams remaining.
+After 9 days there are 86.15237662477762 grams remaining.
+After 10 days there are 75.0 grams remaining.
+After 11 days there are 65.2912922472093 grams remaining.
+After 12 days there are 56.83937124413993 grams remaining.
+After 13 days there are 49.481546653983536 grams remaining.
+After 14 days there are 43.076188312388815 grams remaining.
+After 15 days there are 37.5 grams remaining.
+After 16 days there are 32.64564612360465 grams remaining.
+After 17 days there are 28.419685622069967 grams remaining.
+After 18 days there are 24.740773326991768 grams remaining.
+After 19 days there are 21.538094156194408 grams remaining.
+After 20 days there are 18.75 grams remaining.
+After 21 days there are 16.322823061802325 grams remaining.
+After 22 days there are 14.20984281103498 grams remaining.
+After 23 days there are 12.370386663495887 grams remaining.
+After 24 days there are 10.769047078097204 grams remaining.
+After 25 days there are 9.375 grams remaining.
+After 26 days there are 8.161411530901162 grams remaining.
+After 27 days there are 7.10492140551749 grams remaining.
+After 28 days there are 6.185193331747944 grams remaining.
+After 29 days there are 5.384523539048602 grams remaining.
+After 30 days there are 4.6875 grams remaining.
+After 31 days there are 4.080705765450581 grams remaining.
+After 32 days there are 3.552460702758745 grams remaining.
+After 33 days there are 3.092596665873972 grams remaining.
+After 34 days there are 2.692261769524301 grams remaining.
+
+Process finished with exit code 0
+

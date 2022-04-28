@@ -1,0 +1,18 @@
+#Name Ahmed Almass 
+#NSID:ana597
+#instructors: Mark Keil , Kim Mackey, Marina Schmidt
+fill  sink
+--turn kitchen sink knob to hot
+--add dish soap
+--stack dishes in the sink
+
+wash  dishes
+-submerg dish
+-scub dish
+-rense dish
+
+
+dry  dishes
+-airdry or towel dish
+-confirm clean
+-place dish in the dish drainer

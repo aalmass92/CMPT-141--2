@@ -1,0 +1,19 @@
+def baseboard(width,length, cost_bpf):
+
+    """
+    Computes the total cost of the baseboard
+    :param width:  float value for width by foot
+    :param length: float value for length by foot
+    :param cost_bpf: float value baseboard per foot
+    :var perimeter: calculates perimeter with parameters given
+    :return: Total cost baseboard
+    """
+    perimeter = (2 * width) + ( 2 * length)
+    totalCost_bb = perimeter * cost_bpf
+    return totalCost_bb
+
+width = float(input("What is the width of the room (ft) "))
+length = float(input("What is the length (ft) "))
+cost_bpf = float(input("Input the cost of a linear foot of baseboard ($) "))
+
+print baseboard(width, length, cost_bpf)

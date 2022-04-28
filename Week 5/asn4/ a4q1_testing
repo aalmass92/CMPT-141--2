@@ -1,0 +1,38 @@
+Round 1:
+Player1, Hide Coin left or right hand? (l/r): r
+Player2, Guess! Left or right hand? (l/r): r
+Player2, You guessed it correctly!
+Round 2:
+Player1, Hide Coin left or right hand? (l/r): r
+Player2, Guess! Left or right hand? (l/r): r
+Player2, You guessed it correctly!
+Round 3:
+Player1, Hide Coin left or right hand? (l/r): r
+Player2, Guess! Left or right hand? (l/r): r
+Player2, You guessed it correctly!
+Player 2 wins!
+
+Process finished with exit code 0
+
+Round 1:
+Player1, Hide Coin left or right hand? (l/r): k
+Player1, Hide Coin left or right hand? (l/r): r
+Player2, Guess! Left or right hand? (l/r): h
+Player2 , Please make a valid guess ! Left or right hand ? ( l / r ) : l
+Player2, You guessed it wrong!
+Round 2:
+Player1, Hide Coin left or right hand? (l/r): r
+Player2, Guess! Left or right hand? (l/r): l
+Player2, You guessed it wrong!
+Round 3:
+Player1, Hide Coin left or right hand? (l/r): r
+Player2, Guess! Left or right hand? (l/r): l
+Player2, You guessed it wrong!
+Player 1 wins!
+
+Process finished with exit code 0
+
+
+
+
+

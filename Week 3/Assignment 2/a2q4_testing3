@@ -1,0 +1,2 @@
+width = float(input("What is the width of the room (ft) "))
+length = float(input("What is the length (ft) "))
